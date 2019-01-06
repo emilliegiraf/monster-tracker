@@ -1,0 +1,3 @@
+Kaj, 13, 24
+Esmeralda, 14, 34
+Hobgoblin, 12, 30
